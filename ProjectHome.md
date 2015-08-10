@@ -1,0 +1,1 @@
+A system to enable university students to book their rooms online. Project is created in Yii, meant to be a demo/tutorial
